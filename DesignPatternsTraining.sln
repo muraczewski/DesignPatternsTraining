@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "PersonApiController\Person.csproj", "{7B459328-797D-4991-869E-7A39E7F5DAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person.Services", "Person.Services\Person.Services.csproj", "{1CE93CE4-A17E-4C61-B609-28EA89C79A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B459328-797D-4991-869E-7A39E7F5DAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B459328-797D-4991-869E-7A39E7F5DAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B459328-797D-4991-869E-7A39E7F5DAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B459328-797D-4991-869E-7A39E7F5DAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE93CE4-A17E-4C61-B609-28EA89C79A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE93CE4-A17E-4C61-B609-28EA89C79A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE93CE4-A17E-4C61-B609-28EA89C79A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE93CE4-A17E-4C61-B609-28EA89C79A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FB7F2FC-7113-43F8-BC02-C1208C75BAF7}
+	EndGlobalSection
+EndGlobal
